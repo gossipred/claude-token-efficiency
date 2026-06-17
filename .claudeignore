@@ -1,0 +1,25 @@
+# 圖片與媒體（避免佔用 context）
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.mov
+*.pdf
+*.docx
+*.xlsx
+
+# 大型備份與快取目錄
+blog_backup/
+logs/
+*.log
+node_modules/
+.venv/
+__pycache__/
+
+# 臨時與輸出檔
+*.tmp
+*.bak
+dist/
+build/
