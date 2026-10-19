@@ -26,3 +26,5 @@ curl -sO https://raw.githubusercontent.com/gossipredm4/claude-token-efficiency/m
 ## 記憶系統
 
 建議每個專案建立 `memory/` 目錄，用 `MEMORY.md` 做索引。詳見 `CLAUDE.md` 說明。
+
+最後檢查：2026-10-19
